@@ -320,8 +320,10 @@ CSV settings:
 - เลือก Encoding: UTF-8
 
 **บันทึกรูปหน้า Cohorts ที่สร้างแล้ว:** 
-```
+``
  # บันทึกรูปหน้า Cohorts
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/27a01ec0-59f3-41cb-b078-998f98538ebb" />
+
 ```
 
 ### 4: Bulk User Upload
